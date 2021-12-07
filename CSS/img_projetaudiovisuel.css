@@ -1,0 +1,10 @@
+.grandeimg {
+	width: 80%;
+}
+
+.centerimg {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+

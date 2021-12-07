@@ -1,0 +1,23 @@
+.logo {
+	width: 60 px;
+	height: 60px;
+}
+
+.logoposition {
+	float: left;
+	margin-left: 5%;
+	display: flex;
+}
+
+.navcolor {
+	background-color: #14110F;
+}
+
+.navtaille {
+	height: 70px;
+}
+
+.page {
+	margin-right: 5%;
+	float: right;
+}

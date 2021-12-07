@@ -1,0 +1,21 @@
+.ligne {
+	display: flex;
+	flex-direction: raw;
+} 
+
+.ligne1 {
+	width: 40%;
+	margin-right: 2%;
+	margin-left: 10%;
+}
+
+.ligne2 {
+	width: 40%;
+	margin-right: 8%;
+	margin-left: 2%;
+}
+
+.col {
+	display: flex;
+	flex-direction: column;
+}

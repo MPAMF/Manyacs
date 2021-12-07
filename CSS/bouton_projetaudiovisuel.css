@@ -1,0 +1,15 @@
+.bouton {
+	width: 30%;
+	background-color: #D5AD7D;
+}
+
+.ordrebouton {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+.bouton:hover {
+	background-color: #47433E;
+}
+

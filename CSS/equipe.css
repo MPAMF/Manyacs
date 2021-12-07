@@ -1,0 +1,56 @@
+.logo {
+    width: 60px;
+    height: 60px;
+}
+
+.logoposition {
+    float: left;
+    margin-left: 5%;
+    display: flex;
+}
+
+.navcolor {
+    background-color: #14110F;
+}
+
+.navtaille {
+    height: 70px;
+}
+
+.page {
+    margin-right: 5%;
+    float: right;
+}
+
+h1 {
+    font-family: impact;
+    text-align: center;
+}
+
+h2 {
+    font-family: impact;
+    text-align: center;
+}
+
+.presentationtext {
+    text-align: center;
+    font-size: 25px;
+    font-family: verdana;
+}
+
+p {
+    text-align: center;
+}
+
+div {
+
+    margin: auto;
+    width: 1024px;
+}
+
+div {
+
+    width: 50px;
+
+}
+

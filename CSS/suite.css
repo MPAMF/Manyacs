@@ -1,0 +1,88 @@
+.logo {
+    width: 60px;
+    height: 60px;
+}
+
+.logoposition {
+    float: left;
+    margin-left: 5%;
+    display: flex;
+}
+
+.navcolor {
+    background-color: #14110F;
+}
+
+.navtaille {
+    height: 70px;
+}
+
+.page {
+    margin-right: 5%;
+    float: right;
+}
+
+.container {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.audesu {
+    margin: 0px;
+}
+
+/* Actualité */
+
+.grand {
+    text-align: center;
+
+}
+
+.ligne {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.ligne1 {
+    width: 40%;
+    margin-right: 2%;
+    margin-left: 10%;
+}
+
+.ligne2 {
+    width: 40%;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+.ligne3 {
+    width: 40%;
+    margin-right: 10%;
+    margin-left: 2%;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+.oyai {
+    text-align: center;
+    margin-right: 6%;
+    margin-left: 6%;
+}
+
+.oyaie {
+    text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 22px;
+}
+
+.taille {
+    height: 350px;
+}
+
+

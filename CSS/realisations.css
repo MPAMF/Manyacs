@@ -1,0 +1,70 @@
+.logo {
+    width: 60px;
+    height: 60px;
+}
+
+.logoposition {
+    float: left;
+    margin-left: 5%;
+    display: flex;
+}
+
+.navcolor {
+    background-color: #14110F;
+}
+
+.navtaille {
+    height: 70px;
+}
+
+.page {
+    margin-right: 5%;
+    float: right;
+}
+
+
+.bouton {
+    background-color: #D5AD7D;
+
+}
+
+.bouton:hover {
+    background-color: #47433E;
+}
+
+
+h1 {
+    font-family: impact;
+    text-align: center;
+}
+
+h2 {
+    font-family: impact;
+    text-align: center;
+}
+
+.presentationtext {
+    text-align: left;
+    font-size: 25px;
+    font-family: verdana;
+    color: #D5AD7D
+}
+
+p {
+    text-align: center;
+}
+
+
+.real-video {
+    width: 100%;
+}
+
+
+.footercolor {
+    background-color: #14110F;
+}
+
+
+.textalign {
+    text-align: center;
+}
